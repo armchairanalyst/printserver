@@ -1,0 +1,8 @@
+Receipt
+Type :DTH Recharge
+Date AND Time :1/17/2017 8:35:47 PM
+Mobile Number :9948148475
+Type :DISHTV
+Transaction No. :19340244721701201720
+Amount :150
+Status :Success

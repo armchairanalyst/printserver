@@ -1,0 +1,1 @@
+flaskenv\scripts\python.exe app.py
