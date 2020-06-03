@@ -1,3 +1,4 @@
-/flaskenv
-/Mobile Recharge
-/DTH Recharge
+/flaskenv/*
+/Mobile Recharge/*
+/.vscode/*
+/DTH Recharge/*
